@@ -1,0 +1,27 @@
+{
+  "name": "rts",
+  "version": "1.0.0",
+  "description": "Real Time Systems's Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostyniuk/RTS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kostyniuk/RTS/issues"
+  },
+  "dependencies": {
+    "fs-writefile-promise": "^3.0.2",
+    "googleapis": "^39.2.0",
+    "plotly": "^1.0.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "homepage": "https://github.com/kostyniuk/RTS#readme"
+}
